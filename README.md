@@ -29,18 +29,6 @@
 ## 🚀 進行中的學習計畫 (Learning Roadmaps)
 
 - [ ] **精通網頁前端基礎：** 精通 HTML/CSS/JS 互動，並親手打造出具備響應式設計（RWD）的網頁作品。
-- [ ] **Azure 雲端整合實作：** 計畫未來將 React Native App 或 Python 自動化腳本部署至 Azure 雲端環境（如 Azure Functions 或 App Services），實現雲端原生應用。
-- [ ] **React Native 資產管理 App：** 實作前端 UI、本地儲存（AsyncStorage），並透過 API 與雲端試算表達成即時數據同步。
-- [ ] **Python 自動化與監控腳本：** 深入研究 Playwright 爬蟲技術，實現特定平台的自動化監控與效率工具。
-
----
-
-## 📈 GitHub 數據統計
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YEESHAN0509&show_icons=true&theme=radial&hide_border=true" alt="YEESHAN's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YEESHAN0509&layout=compact&theme=radial&hide_border=true" alt="Top Langs" width="48%" />
-</p>
 
 ---
 
